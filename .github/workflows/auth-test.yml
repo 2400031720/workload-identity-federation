@@ -1,7 +1,6 @@
 name: Google Cloud WIF Authentication Test
 
-on:
-  workflow_dispatch:
+on: [workflow_dispatch]
 
 permissions:
   contents: read
